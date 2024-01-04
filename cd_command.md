@@ -1,4 +1,4 @@
-# _CD_ Command
+# <span style="color:#35f">_CD_ Command</span>
 
 ## Discription
 - cd = change directory
